@@ -1,0 +1,14 @@
+{
+  "[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "css.validate": false,
+  "editor.codeActionsOnSave": ["source.fixAll.eslint"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.quickSuggestions": { "strings": true },
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.tsdk": "node_modules/.pnpm/typescript@5.0.4/node_modules/typescript/lib",
+  "cSpell.words": ["ianvs"]
+}
